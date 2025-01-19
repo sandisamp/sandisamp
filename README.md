@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandisamp (Sanidhya)
 - 👀 I’m interested in ... automation, webdev, blockchain, devops, algorithms
-- 🌱 I’m currently learning ... solidity, Vue, kubernetes, algorithms and data structures
+- 🌱 I’m currently learning ... go, ansible , kubernetes, algorithms and data structures
 - 💞️ I’m looking to collaborate on ... anything and everything if it's interesting enough
 - 📫 How to reach me ... sandisamp@gmail.com
 
